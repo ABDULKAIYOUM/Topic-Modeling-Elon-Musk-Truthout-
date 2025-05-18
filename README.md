@@ -1,2 +1,2 @@
-# Topic-Modeling-Elon-Musk-Truthout-
-A Python project that scrapes Elon Musk articles from Truthout.org, processes the text into a clean corpus, and applies topic modeling techniques for textual analysis. Includes metadata extraction, content cleaning, and export-ready datasets for NLP tasks.
+# Topic-Modeling-Elon-Musk-Truthout
+This project performs automated web scraping of articles under the "Elon Musk" topic on Truthout.org, extracting headlines, publication dates, and article content. The cleaned data is saved into CSV files and used for unsupervised topic modeling (e.g., LDA) and the data is saved into xlsx file. It supports exploratory political/media discourse analysis before and after the 2024 U.S. election.
